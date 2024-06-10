@@ -33,11 +33,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Coming soon.
-
-### Installation
-
-See jupyter notebook.
+See the given jupyter notebook for the experiment setup on collab. We would like to share our data and KG preprocessing code, but as of now, we are not allowed to share data from OntoChem. You can use the SciWalker Factfinder for data snippets or contact OntoChem for the full KG. Please then contact us for guidelines on the KG processing or follow the instructions in our paper.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
